@@ -1,0 +1,24 @@
+# База даних з email і хешами паролів
+users.db
+*.db
+*.sqlite3
+
+# Віртуальне середовище
+.venv/
+venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# Налаштування PyCharm
+.idea/
+
+# Секрети та змінні оточення (на майбутнє)
+.env
+
+# Кеш тестів (на майбутнє)
+.pytest_cache/
+
+# Скрипт для заливання на GitHub
+push_to_github.bat
